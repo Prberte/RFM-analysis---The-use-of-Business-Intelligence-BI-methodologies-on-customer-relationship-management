@@ -1,6 +1,6 @@
 # RFM Analysis and Clustering Using Business Intelligence Methodologies
 
-# The use of Business Intelligence (BI) methodologies on customer relationship management (CRM): Applied solutions for an E-commerce website.
+The use of Business Intelligence (BI) methodologies on customer relationship management (CRM): Applied solutions for an E-commerce website.
 
 This repository contains the implementation of RFM (Recency, Frequency, Monetary) analysis and customer clustering, leveraging Business Intelligence (BI) methodologies to enhance Customer Relationship Management (CRM) strategies.
 
